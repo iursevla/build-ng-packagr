@@ -19,7 +19,7 @@
   "devDependencies": {
     "@angular-devkit/architect": "^0.1300.1",
     "@angular-devkit/build-angular": "^13.0.1",
-    "@angular-devkit/build-ng-packagr": "^0.1002.0",
+    "@angular-devkit/build-ng-packagr": "^0.13.10",
     "@angular/cli": "^13.0.1",
     "@angular/compiler": "^13.0.0",
     "@angular/compiler-cli": "^13.0.0",
@@ -29,7 +29,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^16.11.6",
     "codelyzer": "^6.0.2",
-    "globby": "^12.0.2",
+    "globby": "^10.0.2",
     "jasmine-core": "^3.10.1",
     "jasmine-spec-reporter": "^7.0.0",
     "karma": "^6.3.8",
@@ -48,5 +48,6 @@
   "engines": {
     "node": ">=10.13.0 <15.0.0",
     "yarn": ">=1.17.3 <2.0.0"
-  }
+  },
+  "dependencies": {}
 }
